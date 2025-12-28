@@ -1,0 +1,26 @@
+{
+  "val": {
+    "eval_loss": 0.5414808392524719,
+    "eval_acc": 0.7251592384979613,
+    "eval_precision": 0.7265513875073631,
+    "eval_recall": 0.7251595866638867,
+    "eval_f1": 0.7247365694459783,
+    "eval_auroc": 0.8017796350115712,
+    "eval_runtime": 151.1532,
+    "eval_samples_per_second": 744.721,
+    "eval_steps_per_second": 23.274,
+    "epoch": 0.11844692393338545
+  },
+  "test": {
+    "eval_loss": 0.5409029722213745,
+    "eval_acc": 0.726515183600864,
+    "eval_precision": 0.7279141514427288,
+    "eval_recall": 0.726515183600864,
+    "eval_f1": 0.7260948669262892,
+    "eval_auroc": 0.8027684497835491,
+    "eval_runtime": 384.5088,
+    "eval_samples_per_second": 736.867,
+    "eval_steps_per_second": 23.029,
+    "epoch": 0.11844692393338545
+  }
+}
